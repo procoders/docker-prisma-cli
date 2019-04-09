@@ -1,4 +1,4 @@
-# Prisma CLI docker image with composer
+# Prisma CLI docker image
 
 ## Info
 
