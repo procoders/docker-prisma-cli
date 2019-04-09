@@ -16,3 +16,13 @@ For example, if you need to install or remove php extensions, edit the Dockerfil
 
 	docker pull procoders/prisma-cli
 	docker run --rm -d procoders/prisma-cli
+
+## Maintainer
+
+Feel free to do pull requests
+
+## Author
+
+[Procoders.TECH](https://procoders.tech)
+
+We gear IT up!
