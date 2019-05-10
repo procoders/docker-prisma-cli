@@ -1,6 +1,8 @@
-[![](https://www.procoders.tech/art/pro-powered.png)](http://procoders.tech/)
 
 # Prisma CLI docker image
+[![Docker Build](https://img.shields.io/docker/automated/procoders/docker-prisma-cli.svg)](https://hub.docker.com/r/procoders/docker-prisma-cli/)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/procoders/docker-prisma-cli/master/LICENSE)
+[![ProCoders](https://img.shields.io/badge/powered%20by-ProCoders.tech-blue.svg?colorB=484848)](http://procoders.tech/)
 
 ## Info
 
