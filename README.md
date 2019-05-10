@@ -31,5 +31,5 @@ We gear IT up!
 
 > Procoders mission is to ship meaningful code, all our partners come from referrals, and our pricing model is transparent and fair. Drop us a line and let’s start a conversation right now. 
 
-[![](https://www.procoders.tech/art/powered.png)](http://procoders.tech/)
+[![](https://www.procoders.tech/art/pro-powered.png)](http://procoders.tech/)
 
